@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IreneuszGorak
 
-For several years he has been dealing with business analysis in it projects. My specialty is translating business language into IT and vice versa.
+For several years i have been dealing with business analysis in it projects. My specialty is translating business language into IT and vice versa.
 Currently, I have decided to increse my skills and become a full stack developer.
 
 Git hub presents my learning path and projects that I have completed.
@@ -17,7 +17,7 @@ MAIN
 
 OTHER
 1. GIT
-2. 
+
 
 
 
