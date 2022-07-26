@@ -41,10 +41,10 @@ UDEMY - https://www.udemy.com/course/kurs-git-i-github-od-podstaw/learn/lecture/
 JS
 
 1 - The Complete JavaScript Course 2022: From Zero to Expert! - 69 hours. </br>
-Udemy - https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22645813?start=0#overview
-2 - https://www.megak.pl/ - 5 five week online course - over 20 hours.
+Udemy - https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22645813?start=0#overview  </br>
+2 - https://www.megak.pl/ - 5 five week online course - over 20 hours.  </br>
 
-
+ </br>
 - 🌱 I’m currently mastering JS, and i'm working on portfolio projects. I am also building a website - a business card for a client - a commercial project.
 
 
